@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns='http://www.w3.org/2000/svg' width='985px' height='530px' viewBox='0 0 985 530' role='img' aria-labelledby='title desc'>
+  <title id='title'>Joaquín GitHub profile terminal</title>
+  <desc id='desc'>ASCII portrait and professional profile of Joaquín, creative technologist and product designer.</desc>
+  <defs>
+    <style>
+      .ascii{fill:#0969da;font:600 10.5px ui-monospace,Consolas,monospace;letter-spacing:2px}
+      .user{fill:#8250df;font:700 15px ui-monospace,Consolas,monospace}
+      .rule{stroke:#d0d7de;stroke-width:1}
+      .section{fill:#8250df;font:700 13px ui-monospace,Consolas,monospace}
+      .key{fill:#9a6700;font:700 13px ui-monospace,Consolas,monospace}
+      .dots{fill:#afb8c1;font:400 13px ui-monospace,Consolas,monospace}
+      .value{fill:#24292f;font:500 13px ui-monospace,Consolas,monospace}
+      .blue{fill:#0969da}
+      .green{fill:#1a7f37}
+      .muted{fill:#57606a;font:500 11px ui-monospace,Consolas,monospace;letter-spacing:.6px}
+    </style>
+  </defs>
+  <rect x='.5' y='.5' width='984' height='529' rx='18' fill='#f6f8fa' stroke='#d0d7de'/>
+  <text x='31' y='34' class='ascii' xml:space='preserve'>
+    <tspan x='31' dy='0'>               #**+++++=-:..</tspan>
+    <tspan x='31' dy='13.8'>             *****+-=++=--:::-</tspan>
+    <tspan x='31' dy='13.8'>           **+#%%#%*+#+====--==+</tspan>
+    <tspan x='31' dy='13.8'>          +*@@#@@@#*+%%*#*+=--=++</tspan>
+    <tspan x='31' dy='13.8'>         +%@@@@@@@@@@@@@@@%**#+=+*</tspan>
+    <tspan x='31' dy='13.8'>        ##@@@@@@@@@@@@@@@@@%%%%++**</tspan>
+    <tspan x='31' dy='13.8'>       @@@@@@@@@@@@@@@@@@@@@%@%#*##</tspan>
+    <tspan x='31' dy='13.8'>       @@@@@@##%@@@@@*@@@@@@%%##*##*</tspan>
+    <tspan x='31' dy='13.8'>       @@@@@%*+#@%@@%-=*#%%#%#%%#*#*</tspan>
+    <tspan x='31' dy='13.8'>      *@@@@*++++*==+=. .:-=+*##@%*##</tspan>
+    <tspan x='31' dy='13.8'>      =%@@#=:::...:--.     :=+#%+*##*</tspan>
+    <tspan x='31' dy='13.8'>      :+@*=-....=++=-:.    :==-:.:##*</tspan>
+    <tspan x='31' dy='13.8'>      .:*%%#=-..:-=+==-.   .=-....**</tspan>
+    <tspan x='31' dy='13.8'>       :=*=+**: .:===:.     -:..:.##</tspan>
+    <tspan x='31' dy='13.8'>       :-+#**+:   ...       -....-**</tspan>
+    <tspan x='31' dy='13.8'>        ======.            .=:. .+*</tspan>
+    <tspan x='31' dy='13.8'>        ++----. : .        :+-::=++</tspan>
+    <tspan x='31' dy='13.8'>         *-::==--..       .-*=:-*+</tspan>
+    <tspan x='31' dy='13.8'>          +--=*==-::-.   .:=*+.-*</tspan>
+    <tspan x='31' dy='13.8'>           =+#*+++==-:  .-=*#=.</tspan>
+    <tspan x='31' dy='13.8'>            ++*+==-.....-+*#=..</tspan>
+    <tspan x='31' dy='13.8'>           =*#**%#-..:=+*%#-.. .</tspan>
+    <tspan x='31' dy='13.8'>          :::+@##*+-=+#%%+-:.</tspan>
+    <tspan x='31' dy='13.8'>         . ...-%%@%##@%*--:..</tspan>
+    <tspan x='31' dy='13.8'>               :#@@@%*-::::..</tspan>
+    <tspan x='31' dy='13.8'>             :=%@***=-::::...</tspan>
+    <tspan x='31' dy='13.8'>        ..-+%@@@@*+*+-::.....       -</tspan>
+    <tspan x='31' dy='13.8'>     :-+#@@@@@@@@%+=+=-:::.....   :*@@</tspan>
+    <tspan x='31' dy='13.8'>    *#@@@@@@@@@@@@*===---:.... .:*@@@@@</tspan>
+    <tspan x='31' dy='13.8'>   @@@@@@@@@@@@@@@%+---==:..:-*%@@@@@@@@</tspan>
+    <tspan x='31' dy='13.8'>  @@@@@@@@@@@@@@@@@@#++*#*#%@@@@@@@@@@@@@</tspan>
+    <tspan x='31' dy='13.8'> @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+  </text>
+  <g>
+    <text x='390' y='48' class='user'>JMP2K01@github</text>
+    <line x1='530' y1='43.5' x2='954' y2='43.5' class='rule'/>
+    <text x='390' y='82' class='key'>Name</text>
+    <text x='458' y='82' class='dots'>............................</text>
+    <text x='954' y='82' text-anchor='end' class='value'>Joaquín</text>
+    <text x='390' y='105' class='key'>Role</text>
+    <text x='458' y='105' class='dots'>............................</text>
+    <text x='954' y='105' text-anchor='end' class='value blue'>Creative Technologist + Product Designer</text>
+    <text x='390' y='128' class='key'>Base</text>
+    <text x='458' y='128' class='dots'>............................</text>
+    <text x='954' y='128' text-anchor='end' class='value'>Chile</text>
+    <text x='390' y='151' class='key'>Focus</text>
+    <text x='458' y='151' class='dots'>............................</text>
+    <text x='954' y='151' text-anchor='end' class='value'>AI tools, interfaces, creative systems</text>
+    <text x='390' y='174' class='key'>Building</text>
+    <text x='478' y='174' class='dots'>..........................</text>
+    <text x='954' y='174' text-anchor='end' class='value green'>Mx2, a local-first personal OS</text>
+
+    <text x='390' y='220' class='section'>- Toolkit</text>
+    <line x1='478' y1='215.5' x2='954' y2='215.5' class='rule'/>
+    <text x='390' y='251' class='key'>Product</text>
+    <text x='478' y='251' class='dots'>..........................</text>
+    <text x='954' y='251' text-anchor='end' class='value blue'>TypeScript, React, Next.js, Electron</text>
+    <text x='390' y='274' class='key'>Systems</text>
+    <text x='478' y='274' class='dots'>..........................</text>
+    <text x='954' y='274' text-anchor='end' class='value blue'>MCP, RAG, local embeddings, SQLite</text>
+    <text x='390' y='297' class='key'>Creative</text>
+    <text x='478' y='297' class='dots'>..........................</text>
+    <text x='954' y='297' text-anchor='end' class='value blue'>Illustrator, Photoshop, Remotion</text>
+    <text x='390' y='320' class='key'>Workflow</text>
+    <text x='478' y='320' class='dots'>..........................</text>
+    <text x='954' y='320' text-anchor='end' class='value blue'>Codex, Claude Code, Git, pnpm</text>
+
+    <text x='390' y='366' class='section'>- Selected Work</text>
+    <line x1='522' y1='361.5' x2='954' y2='361.5' class='rule'/>
+    <text x='390' y='397' class='key'>Mx2</text>
+    <text x='470' y='397' class='dots'>...........................</text>
+    <text x='954' y='397' text-anchor='end' class='value'>Personal operating system</text>
+    <text x='390' y='420' class='key'>Noctix</text>
+    <text x='470' y='420' class='dots'>...........................</text>
+    <text x='954' y='420' text-anchor='end' class='value'>Dofus companion + build optimizer</text>
+    <text x='390' y='443' class='key'>Isaac.Progress</text>
+    <text x='500' y='443' class='dots'>.......................</text>
+    <text x='954' y='443' text-anchor='end' class='value'>Save parser + progression planner</text>
+    <text x='390' y='466' class='key'>Ascentia</text>
+    <text x='470' y='466' class='dots'>...........................</text>
+    <text x='954' y='466' text-anchor='end' class='value'>Minecraft RPG progression suite</text>
+
+    <text x='390' y='505' class='muted'>DESIGN × AI × CODE</text>
+    <text x='954' y='505' text-anchor='end' class='muted'>JMP2K01 / CHILE</text>
+  </g>
+</svg>
