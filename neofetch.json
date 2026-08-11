@@ -1,0 +1,117 @@
+{
+  "imageScale": 1.22,
+  "imageOffsetY": "-3%",
+  "imageColor": "#0969da, #79c0ff",
+  "backgroundColor": "#f6f8fa, #0d1117",
+  "separatorColor": "#8c959f, #30363d",
+  "sections": [
+    {
+      "title": "JMP2K01@github",
+      "titleColor": {
+        "text": "#8250df, #d2a8ff",
+        "line": "#8c959f, #30363d"
+      },
+      "fields": [
+        {
+          "key": "Name",
+          "value": "Joaquín",
+          "keyColor": "#9a6700, #d29922",
+          "valueColor": "#24292f, #c9d1d9"
+        },
+        {
+          "key": "Role",
+          "value": "Creative Technologist + Product Designer",
+          "keyColor": "#9a6700, #d29922",
+          "valueColor": "#0969da, #79c0ff"
+        },
+        {
+          "key": "Base",
+          "value": "Chile",
+          "keyColor": "#9a6700, #d29922",
+          "valueColor": "#24292f, #c9d1d9"
+        },
+        {
+          "key": "Focus",
+          "value": "AI tools, interfaces, creative systems",
+          "keyColor": "#9a6700, #d29922",
+          "valueColor": "#24292f, #c9d1d9"
+        },
+        {
+          "key": "Building",
+          "value": "Mx2 — a local-first personal OS",
+          "keyColor": "#9a6700, #d29922",
+          "valueColor": "#1a7f37, #7ee787"
+        }
+      ]
+    },
+    {
+      "title": "- Toolkit",
+      "titleColor": {
+        "text": "#8250df, #d2a8ff",
+        "line": "#8c959f, #30363d"
+      },
+      "fields": [
+        {
+          "key": "Product",
+          "value": "TypeScript, React, Next.js, Electron",
+          "keyColor": "#9a6700, #d29922",
+          "valueColor": "#0969da, #79c0ff"
+        },
+        {
+          "key": "Systems",
+          "value": "MCP, RAG, local embeddings, SQLite",
+          "keyColor": "#9a6700, #d29922",
+          "valueColor": "#0969da, #79c0ff"
+        },
+        {
+          "key": "Creative",
+          "value": "Illustrator, Photoshop, Remotion",
+          "keyColor": "#9a6700, #d29922",
+          "valueColor": "#0969da, #79c0ff"
+        },
+        {
+          "key": "Workflow",
+          "value": "Codex, Claude Code, Git, pnpm",
+          "keyColor": "#9a6700, #d29922",
+          "valueColor": "#0969da, #79c0ff"
+        }
+      ]
+    },
+    {
+      "title": "- Selected Work",
+      "titleColor": {
+        "text": "#8250df, #d2a8ff",
+        "line": "#8c959f, #30363d"
+      },
+      "fields": [
+        {
+          "key": "Mx2",
+          "value": "Personal AI desktop + second brain",
+          "keyColor": "#9a6700, #d29922",
+          "valueColor": "#24292f, #c9d1d9"
+        },
+        {
+          "key": "Noctix",
+          "value": "Dofus companion + build optimizer",
+          "keyColor": "#9a6700, #d29922",
+          "valueColor": "#24292f, #c9d1d9"
+        },
+        {
+          "key": "Isaac.Progress",
+          "value": "Live save parser + progression planner",
+          "keyColor": "#9a6700, #d29922",
+          "valueColor": "#24292f, #c9d1d9"
+        },
+        {
+          "key": "Ascentia",
+          "value": "Minecraft RPG progression suite",
+          "keyColor": "#9a6700, #d29922",
+          "valueColor": "#24292f, #c9d1d9"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "enabled": false
+  }
+}
